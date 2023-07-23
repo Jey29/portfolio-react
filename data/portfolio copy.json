@@ -93,5 +93,23 @@
     }
     
   ],
-  "aboutpara": "Je suis un développeur web tout juste sorti d'une formation chez OpenClassrooms, et ma passion pour le code et les nouvelles technologies ne fait que grandir. Mon parcours dans le monde du développement web m'a permis de découvrir un univers fascinant où la créativité et l'innovation se mêlent harmonieusement"  
+  "aboutpara": "Je suis un développeur web tout juste sorti d'une formation chez OpenClassrooms, et ma passion pour le code et les nouvelles technologies ne fait que grandir. Mon parcours dans le monde du développement web m'a permis de découvrir un univers fascinant où la créativité et l'innovation se mêlent harmonieusement",  
+  "resume": {
+    "tagline": "👋  Je suis developpeur web Front-end",
+    "description": "Je suis un jeune développeur web en perfectionnement de ses compétences",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "Decembre 2022 - Juillet 2023",
+        "type": "Temps complet",
+        "position": "Etudiant chez Openclass Rooms",
+        "bullets": [
+          "Formation developpeur web"          
+        ]
+      }      
+    ],    
+    "languages": ["Javascript", "HTML5", "CSS", "Sass"],
+    "frameworks": ["React", "NodeJs", "Express"],
+    "others": ["Figma"]
+  }
 }
